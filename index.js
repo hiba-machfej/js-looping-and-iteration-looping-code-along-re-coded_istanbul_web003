@@ -11,4 +11,4 @@ function writeCards(birhdayNames, event) {
 }
  
 
-writeCards[]
+return [writeCards(birhdayNames, event)];
