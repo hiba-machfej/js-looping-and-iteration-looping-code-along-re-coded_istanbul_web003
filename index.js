@@ -1,6 +1,7 @@
 // Code your solutions in this file
-let birhdayNames = ["Ada", "Brendan", "Ali"];
-let event = 'birthday';
+
+const birhdayNames = ["Ada", "Brendan", "Ali"];
+const event = 'birthday';
 
 function writeCards(birhdayNames, event) {
   for (let i = 0; i < birhdayNames.length; i++) {
